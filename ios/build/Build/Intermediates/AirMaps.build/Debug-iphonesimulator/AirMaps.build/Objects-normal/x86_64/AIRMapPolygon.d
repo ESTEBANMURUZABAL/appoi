@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/estebanmuruzabal/work/my-appointment/node_modules/react-native-maps/ios/AirMaps/AIRMapPolygon.m \
+  /Users/estebanmuruzabal/work/my-appointment/node_modules/react-native-maps/ios/AirMaps/AIRMapPolygon.h \
+  ../../react-native/React/Views/RCTConvert+MapKit.h \
+  ../../react-native/React/Base/RCTConvert.h \
+  ../../react-native/React/CSSLayout/CSSLayout.h \
+  ../../react-native/React/CSSLayout/CSSEnums.h \
+  ../../react-native/React/CSSLayout/CSSMacros.h \
+  ../../react-native/React/Views/RCTAnimationType.h \
+  ../../react-native/React/Views/RCTBorderStyle.h \
+  ../../react-native/React/Views/RCTTextDecorationLineType.h \
+  ../../react-native/React/Base/RCTDefines.h \
+  ../../react-native/React/Base/RCTLog.h \
+  ../../react-native/React/Base/RCTAssert.h \
+  ../../react-native/React/Views/RCTPointerEvents.h \
+  ../../react-native/React/Views/RCTComponent.h \
+  /Users/estebanmuruzabal/work/my-appointment/node_modules/react-native-maps/ios/AirMaps/AIRMapCoordinate.h \
+  /Users/estebanmuruzabal/work/my-appointment/node_modules/react-native-maps/ios/AirMaps/AIRMap.h \
+  /Users/estebanmuruzabal/work/my-appointment/node_modules/react-native-maps/ios/AirMaps/Callout/SMCalloutView.h \
+  ../../react-native/React/Views/RCTView.h \
+  ../../react-native/React/Views/UIView+React.h
