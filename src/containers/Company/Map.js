@@ -12,9 +12,9 @@ class Map extends  Component {
 
     const { width, height } = Dimensions.get('window');
     const ASPECT_RATIO = width / height;
-    const LATITUDE = 29.3667;
-    const LONGITUDE = 47.9667;
-    const LATITUDE_DELTA = 1.5;
+    const LATITUDE = -27.460644;
+    const LONGITUDE = -59.0653855;
+    const LATITUDE_DELTA = 0.4;
     const LONGITUDE_DELTA = LATITUDE_DELTA * ASPECT_RATIO;
 
     this.state = {

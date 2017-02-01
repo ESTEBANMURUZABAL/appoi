@@ -28,7 +28,7 @@ class Categories extends Component {
     const { categories,categoriesReducer } = this.props;
     return (
       <Image style={{flex: 1,width: null,height: null,paddingTop: 64,backgroundColor:'white'}}
-             source={require('./../../assets/img/bghome.png')}
+             source={require('./../../assets/img/bghome.jpg')}
       >
         <CategoryList
           categories={categories}

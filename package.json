@@ -12,7 +12,7 @@
     "normalizr": "^2.2.1",
     "react": "15.4.2",
 		"react-native": "0.39.0",
-	"react-native-button": "^1.7.1",
+	  "react-native-button": "^1.7.1",
     "react-native-calendar-picker": "^3.0.0",
     "react-native-code-push": "^1.15.1-beta",
     "react-native-drawer": "^2.3.0",
@@ -28,3 +28,5 @@
     "reselect": "^2.5.4"
   }
 }
+
+

@@ -13,14 +13,9 @@
 		i5pEzNTCqdX9bozotaX4rQWRPW8=
 		</data>
 		<key>Base.lproj/LaunchScreen.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			XiptOfqL9f1tRbc9d4slyEoUwds=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
+		<data>
+		XiptOfqL9f1tRbc9d4slyEoUwds=
+		</data>
 		<key>Entypo.ttf</key>
 		<data>
 		R4cKZ91Qhxdl95nKqX2ochnuR8U=
@@ -232,7 +227,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		JCKd2OYsZ974YXwWck1MCqaY1Rk=
+		bGX0CrLonXYfm0uYwe+Q4ehed/c=
 		</data>
 		<key>Ionicons.ttf</key>
 		<data>
@@ -256,7 +251,7 @@
 		</data>
 		<key>PlugIns/MyAppointmentTests.xctest/MyAppointmentTests</key>
 		<data>
-		6TcU9VSwxzu6d6fniHcv7DY3lQA=
+		rnpjstE+DGfd4Uyxs6N1rrRSzYE=
 		</data>
 		<key>PlugIns/MyAppointmentTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
@@ -305,8 +300,6 @@
 			<data>
 			RoNVIljyzRNPcTGhrs7NwGIQ7WO9OYiYPnUYnjjaE14=
 			</data>
-			<key>optional</key>
-			<true/>
 		</dict>
 		<key>Entypo.ttf</key>
 		<dict>
@@ -924,11 +917,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6TcU9VSwxzu6d6fniHcv7DY3lQA=
+			rnpjstE+DGfd4Uyxs6N1rrRSzYE=
 			</data>
 			<key>hash2</key>
 			<data>
-			XhjgXTFrpoxaOruJ2BZAQ9b/DlCKc0Wcus+lQZ/jpOU=
+			z3KqF211+DIP/FzvoW/ZODQzOl1QHzGi4gjF/wBf3PA=
 			</data>
 		</dict>
 		<key>PlugIns/MyAppointmentTests.xctest/_CodeSignature/CodeResources</key>
@@ -983,6 +976,11 @@
 			<key>weight</key>
 			<real>1100</real>
 		</dict>
+		<key>^Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
 		<key>^version.plist$</key>
 		<true/>
 	</dict>
@@ -1027,6 +1025,11 @@
 			<true/>
 			<key>weight</key>
 			<real>1100</real>
+		</dict>
+		<key>^Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
 		</dict>
 		<key>^Info\.plist$</key>
 		<dict>
