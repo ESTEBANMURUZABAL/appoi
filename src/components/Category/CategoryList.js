@@ -62,6 +62,7 @@ export default class CategoryList extends Component {
           contentInset={{ top:100, bottom:100 }}
           showsVerticalScrollIndicator={false}
           automaticallyAdjustContentInsets={false}
+          scrollEnabled={false}
         />
     )
 
@@ -69,31 +70,25 @@ export default class CategoryList extends Component {
 }
 
 const styles = StyleSheet.create({
-  container:{
-    flex: 1,
-    width: null,
-    height: null,
-    paddingTop: 64,
-    backgroundColor:'white'
-  },
   contentContainer:{
-    justifyContent: 'center',
+    //justifyContent: 'center',
   },
   row: {
     flex:1,
-    alignItems:'center',
-    opacity:.9,
-    padding:10,
+    flexDirection: 'column',
+    // alignItems:'center',
+    // opacity:.9,
+    // padding:10,
   },
   cellWrapper: {
-    width:150,
-    height:150,
-    borderRadius:75,
     backgroundColor:'white',
-    opacity: 0.7,
-    alignItems:'center',
-    overflow:'hidden',
-    justifyContent:'center'
+    // width:150,
+    // height:150,
+    // borderRadius:75,
+    // opacity: 0.7,
+    // alignItems:'center',
+    // overflow:'hidden',
+    // justifyContent:'center'
   },
   thumbnail: {
     width: 80,
