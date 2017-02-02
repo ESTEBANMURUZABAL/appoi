@@ -8,6 +8,7 @@ import Register from './containers/Auth/Register';
 import Categories from './containers/Category/Categories';
 import Category from './containers/Category/Category';
 import Company from './containers/Company/Company';
+import Home from './containers/Home/Home';
 import Appointment from './containers/Appointment/Appointment';
 import Map from './containers/Company/Map';
 import Favorites from './containers/User/Favorites';
@@ -34,17 +35,14 @@ export const scenes = Actions.create(
                tabBarSelectedItemStyle={{backgroundColor:APP_STYLES.primaryColor,height:40}}
                navigationBarStyle={{ backgroundColor:APP_STYLES.primaryColor }}
         >
-          <Scene key="main"
-                  icon={TabIcon}
+          <Scene key="homeScreen"
+                  icon={TabIcon} 
                   selectedTabIcon="ios-home"
                   tabIcon="ios-home-outline"
                   navigationBarStyle={{ backgroundColor:APP_STYLES.primaryColor }}
                   titleStyle={{ color:'white' }}
           >
-            <Scene key="categories" component={Categories} initial={true} hideNavBar={false} type="reset"/>
-            <Scene key="categoryEntity" component={Category} />
-            <Scene key="companyEntity" component={Company} />
-            <Scene key="appointmentContainer" component={Appointment} />
+            <Scene key="inicio" component={Home} initial={true} title="Inicio" hideNavBar={false} type="reset"/>
           </Scene>
 
           <Scene key="maps" component={Map} icon={TabIcon}
@@ -66,6 +64,21 @@ export const scenes = Actions.create(
                  titleStyle={{ color:'white' }}
 
           />
+
+          <Scene key="reserveScreen"
+                  icon={TabIcon} 
+                  selectedTabIcon="ios-search"
+                  tabIcon="ios-search-outline"
+                  navigationBarStyle={{ backgroundColor:APP_STYLES.primaryColor }}
+                  titleStyle={{ color:'white' }}
+          >
+            <Scene key="categories" component={Categories} initial={true} title="Categorias" hideNavBar={false} type="reset"/>
+            <Scene key="categoryEntity" component={Category} />
+            <Scene key="companyEntity" component={Company} />
+            <Scene key="appointmentContainer" component={Appointment} />
+          </Scene>
+      
+
           <Scene  key="settings" icon={TabIcon}  title="Settings"
                   selectedTabIcon="ios-settings" tabIcon="ios-settings-outline"
                   navigationBarStyle={{ backgroundColor:APP_STYLES.primaryColor }}

@@ -57,12 +57,12 @@ export default class CategoryList extends Component {
           contentContainerStyle={styles.contentContainer}
           dataSource={dataSource}
           renderRow={this.renderRow.bind(this)}
+          enableEmptySections={true} //@todo remove this in future version
           ref='listView'
           renderHeader={()=>this.renderHeader()}
           contentInset={{ top:100, bottom:100 }}
           showsVerticalScrollIndicator={false}
           automaticallyAdjustContentInsets={false}
-          scrollEnabled={false}
         />
     )
 
@@ -70,25 +70,31 @@ export default class CategoryList extends Component {
 }
 
 const styles = StyleSheet.create({
+  container:{
+    flex: 1,
+    width: null,
+    height: null,
+    paddingTop: 64,
+    backgroundColor:'white'
+  },
   contentContainer:{
-    //justifyContent: 'center',
+    justifyContent: 'center',
   },
   row: {
     flex:1,
-    flexDirection: 'column',
-    // alignItems:'center',
-    // opacity:.9,
-    // padding:10,
+    alignItems:'center',
+    opacity:.9,
+    padding:10,
   },
   cellWrapper: {
+    width:150,
+    height:150,
+    borderRadius:75,
     backgroundColor:'white',
-    // width:150,
-    // height:150,
-    // borderRadius:75,
-    // opacity: 0.7,
-    // alignItems:'center',
-    // overflow:'hidden',
-    // justifyContent:'center'
+    opacity: 0.7,
+    alignItems:'center',
+    overflow:'hidden',
+    justifyContent:'center'
   },
   thumbnail: {
     width: 80,
@@ -98,7 +104,7 @@ const styles = StyleSheet.create({
     color:'black',
     fontSize:20,
     fontWeight:'800',
-    fontFamily:'SnellRoundhand',
+    fontFamily:'Arial',
   },
 
 });
