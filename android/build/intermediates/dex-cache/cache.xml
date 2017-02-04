@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/estebanmuruzabal/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.2.3_179ce2b53b6ab601683ffe2365d71f5402efd5ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.1_6f0887fcdf4feca81e0de5ad8d312922f458af61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/estebanmuruzabal/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.0_ee5ec7b1c3a721dbdea15b1543d441780079c725/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-base-0.11.0_9ce0733dd447d6300197ac8cbaa65533be510d4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fresco-0.11.0_659843606b11d3c7db86f70377a609ad55a25c65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6bb3cf14a7b4b14867b2e74b62e503eb5105805b">
+        <dex dex="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a2209b074690084d052727b1d419a5a34eb13cb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3ac8871b8dca7d0750bca6cd92aedec19d07d3ef">
+        <dex dex="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-1.5_5b91dd479bbf8851db42790ff0a269a5382f8d35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="45b2c107c63eeed4a35c2d1d5d61783b194cbcd5">
+        <dex dex="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.react-react-native-0.39.0_bc706632b75717c7578b6daed7206c2a481baa4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/estebanmuruzabal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_9ce71d8e6f54fbd3ca08144234f8f42dfbe7765b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/estebanmuruzabal/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_1971f322756178b4752bcfde5ecc86f61cf016d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/estebanmuruzabal/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_84b46b2f56daa89eef1b3fb716e0f4ddb6ba6433/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-drawee-0.11.0_3a0131d12c783d5be8f050cb9ca6ad46a28abfd7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_347958f34279eab4e778007592a8b446c88dc6ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.4.0_15ce5e12cdd9bd44389c32135c945489762b83eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_52080a0227b1d3e169b7485e748d696c367c7b62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-0.11.0_ff66259cbef181a2368cd9e36e8e50a84f30ff73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fbcore-0.11.0_624f99111e17f08413cc8ca3ad5b7b336cffb175/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.soloader-soloader-0.1.0_fb68b15f9f697c774c53bba49e54af46917e2bc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/estebanmuruzabal/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_00a168b6bde1ba6ee6bb6f890356d69355f229f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/estebanmuruzabal/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.4.1_680937740f3356b27faa6ea1ac009c2630672b23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/estebanmuruzabal/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_0f7bac153a2b6200f23bebf4951bff8c00c4b42a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_d7f3d7133e44d41faf87cf6ac812ff82fe00c802/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.1_373b08b9de2ed8eaeb672f57598eb5737033d873/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_46f596c32453cd112c6b7437f1bb24d9333fb4ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/estebanmuruzabal/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_57384cbfd112ed5acae431a073c6f9462c830738/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_f380b0d3efb1d0d74f34931c923fd53983e81f6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/estebanmuruzabal/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-ws-3.4.1_7380f6ceec71424c38180ce3228b08f40342e88e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_727ef8888a9f04e79e73de5677197563562b0fd7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3634c65365b9759a57bfc28e7e6f4125b50c24ab">
+        <dex dex="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f90d7668ffb942864012149cd2996e5e159f7029/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/estebanmuruzabal/work/my-appointment/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_a998be5f5b07390fae2696377bb96cff472c49b9/classes.dex" />
+    </item>
+
+</items>
