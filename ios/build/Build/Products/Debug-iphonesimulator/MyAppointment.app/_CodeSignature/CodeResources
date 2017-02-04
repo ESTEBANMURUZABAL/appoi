@@ -12,9 +12,13 @@
 		<data>
 		i5pEzNTCqdX9bozotaX4rQWRPW8=
 		</data>
+		<key>Assets.car</key>
+		<data>
+		BLBPsVJE72R/tDTAj3S8dc5O9Y8=
+		</data>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		XiptOfqL9f1tRbc9d4slyEoUwds=
+		9CrUIehVfqPfi9ShRzTHIoL8vj4=
 		</data>
 		<key>Entypo.ttf</key>
 		<data>
@@ -227,7 +231,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		bGX0CrLonXYfm0uYwe+Q4ehed/c=
+		0mPSz12ArVnP4BIeEPMScX04K/o=
 		</data>
 		<key>Ionicons.ttf</key>
 		<data>
@@ -247,15 +251,15 @@
 		</data>
 		<key>PlugIns/MyAppointmentTests.xctest/Info.plist</key>
 		<data>
-		4rLph6uZauZDgRJ63mqkheKdeUI=
+		40S0roceIK5ycgOPuxYUETpkLm0=
 		</data>
 		<key>PlugIns/MyAppointmentTests.xctest/MyAppointmentTests</key>
 		<data>
-		rnpjstE+DGfd4Uyxs6N1rrRSzYE=
+		Kl5QKRkYw31+KcvWJuuC+8kFI5Q=
 		</data>
 		<key>PlugIns/MyAppointmentTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		yqyuVObXWXJyA4eBuMQTlruLlSs=
+		zjDwpxWobTQFnVGX7mR9k/zmB70=
 		</data>
 		<key>SimpleLineIcons.ttf</key>
 		<data>
@@ -290,15 +294,26 @@
 			LDjt5JgLJZK2i3ZdwILTPqm0w3KbyU+igWQhHlzNliU=
 			</data>
 		</dict>
+		<key>Assets.car</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BLBPsVJE72R/tDTAj3S8dc5O9Y8=
+			</data>
+			<key>hash2</key>
+			<data>
+			7m7FIwZ52GOb4E8+pBvK6HgelIqsWkIBwft/MN0E43k=
+			</data>
+		</dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XiptOfqL9f1tRbc9d4slyEoUwds=
+			9CrUIehVfqPfi9ShRzTHIoL8vj4=
 			</data>
 			<key>hash2</key>
 			<data>
-			RoNVIljyzRNPcTGhrs7NwGIQ7WO9OYiYPnUYnjjaE14=
+			IXGvyUm+b+zXRNKNVpj1ydnWH6PHIEnThYritTmFI7o=
 			</data>
 		</dict>
 		<key>Entypo.ttf</key>
@@ -906,33 +921,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4rLph6uZauZDgRJ63mqkheKdeUI=
+			40S0roceIK5ycgOPuxYUETpkLm0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Qv/6tBGe+In3u9bpcUFcCGzQNEpcVvLw0WWM8YypOoo=
+			TUCq44CSSGrZg8LoQsjsmcM3irWm4cKIZTwUEJ3CGM0=
 			</data>
 		</dict>
 		<key>PlugIns/MyAppointmentTests.xctest/MyAppointmentTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rnpjstE+DGfd4Uyxs6N1rrRSzYE=
+			Kl5QKRkYw31+KcvWJuuC+8kFI5Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			z3KqF211+DIP/FzvoW/ZODQzOl1QHzGi4gjF/wBf3PA=
+			1pwOLmoHQnt93aCT/9foodroamoHKbBNuSHnKhUQb00=
 			</data>
 		</dict>
 		<key>PlugIns/MyAppointmentTests.xctest/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yqyuVObXWXJyA4eBuMQTlruLlSs=
+			zjDwpxWobTQFnVGX7mR9k/zmB70=
 			</data>
 			<key>hash2</key>
 			<data>
-			loGI0X1LyAmIqalFTQmjk0idU7PBWbeZp+dPh+maUOA=
+			AHLLUKT0Ut1lx7beyRylAHSQFABNZzwBF4/oLvKYgGo=
 			</data>
 		</dict>
 		<key>SimpleLineIcons.ttf</key>
