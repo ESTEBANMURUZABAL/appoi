@@ -1,3 +1,54 @@
 {
-  name: 'test'
+  "data": [
+    {
+      "id": 1,
+      "time_en": "6:00 am",
+      "reserved": false
+    },
+    {
+      "id": 2,
+      "time_en": "6:30 am",
+      "reserved": false
+    },
+    {
+      "id": 3,
+      "time_en": "7:00 am",
+      "reserved": false
+    },
+    {
+      "id": 4,
+      "time_en": "7:30 am",
+      "reserved": false
+    },
+    {
+      "id": 5,
+      "time_en": "8:00 am",
+      "reserved": true
+    },
+    {
+      "id": 6,
+      "time_en": "8:30 am",
+      "reserved": false
+    },
+    {
+      "id": 7,
+      "time_en": "9:00 am",
+      "reserved": false
+    },
+    {
+      "id": 8,
+      "time_en": "9:30 am",
+      "reserved": true
+    },
+    {
+      "id": 9,
+      "time_en": "10:00 am",
+      "reserved": false
+    },
+    {
+      "id": 10,
+      "time_en": "10:30 am",
+      "reserved": false
+    }
+  ]
 }
